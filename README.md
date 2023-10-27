@@ -7,6 +7,6 @@
 
 **test**: https://drive.google.com/file/d/19osVsUanQpfgqwMLWEtB6PO3kOuv3WyW/view?usp=sharing
 
-(the validation and test splits are from **MeanSum** [[paper]](https://proceedings.mlr.press/v97/chu19b/chu19b.pdf) [[code]](https://github.com/sosuperic/MeanSum))
+(the validation and test splits are from **MeanSum** [[paper]](https://proceedings.mlr.press/v97/chu19b/chu19b.pdf) [[code]](https://github.com/sosuperic/MeanSum) and some parts of the training code for PLMs are borrowed from **AceSum** [[paper]](https://aclanthology.org/2021.emnlp-main.528.pdf) [[code]](https://github.com/rktamplayo/AceSum). The code for Opinosis and LexRank are directly from their official repo, which is specified in the appendix of our paper)
 
 ``metric_evaluation`` contains the code and data that help to get the scores from different automatic metrics, calculate correlations, etc.
