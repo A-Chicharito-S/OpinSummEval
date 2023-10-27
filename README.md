@@ -1,5 +1,5 @@
 # OpinSummEval
-``model_training`` contains code that helps to obtain the outputs from models: Opinosis, LexRank, text-davinci-003, and PLMs (T5, PEGASUS, BART). We provide the training/validation/test data from PLMs at:
+``model_training`` contains code that helps to obtain the outputs from models: Opinosis, LexRank, text-davinci-003, and PLMs (T5, PEGASUS, BART). We provide the training/validation/test data for PLMs at:
 
 **train**: https://drive.google.com/file/d/1wHEoPuLX15hJn12AIbkvDImqzfE1g77Z/view?usp=sharing
 
