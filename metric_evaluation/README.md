@@ -9,4 +9,4 @@ contains some scripts to compute the scores for automated evaluation methods (so
 # results
 contains the correlation results
 # others
-other scripts in the root are self-explainatory (to sort scores in ``automatic scores`` and ``final batch``; to compute the correlations; summaries_0-200_cleaned.csv is from MeanSum)
+other scripts in the root are self-explanatory (to sort scores in ``automatic scores`` and ``final batch``; to compute the correlations; summaries_0-200_cleaned.csv is from MeanSum)
